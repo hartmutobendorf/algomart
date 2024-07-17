@@ -56,7 +56,7 @@
     "fastify": "3.29.0",
     "fastify-plugin": "3.0.1",
     "fastify-schedule": "1.0.0",
-    "firebase": "9.7.0",
+    "firebase": "9.23.0",
     "firebase-admin": "10.1.0",
     "i18next": "21.6.16",
     "i18next-fs-backend": "1.1.4",
