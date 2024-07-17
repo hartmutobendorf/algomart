@@ -29,7 +29,7 @@
     "@headlessui/react": "1.6.0",
     "@heroicons/react": "1.0.6",
     "@json-rpc-tools/utils": "1.7.6",
-    "@next/bundle-analyzer": "12.1.5",
+    "@next/bundle-analyzer": "12.3.4",
     "@nrwl/next": "14.0.5",
     "@pinata/sdk": "1.1.25",
     "@react-spring/three": "9.4.4",
